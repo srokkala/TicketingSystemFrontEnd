@@ -6,7 +6,7 @@
  2. Run `npm start` and navigate your web browser to `localhost:3000`
 
 
-![Picture](ScreenShot2021-04-12at1.13.49AM.png)
+![Picture](Image.png)
 
 
 
