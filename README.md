@@ -1,3 +1,18 @@
+# Steven Rokkala Ticketing System
+- Met all design requirements and used SCSS files for styling
+
+ ## Installation and Running 
+ 1. Change into the working directory and run `npm install` to install all dependecies including my library 
+ 2. Run `npm start` and navigate your web browser to `localhost:3000`
+
+
+![Picture](Screen Shot 2021-04-12 at 1.13.49 AM.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
