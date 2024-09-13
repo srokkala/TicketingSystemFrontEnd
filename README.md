@@ -3,7 +3,7 @@
 
  ## Installation and Running 
  1. Change into the working directory and run `npm install` to install all dependecies
- 2. Run `npm start` and navigate your web browser to `localhost:3000`
+ 2. Run `npm start` and navigate your web browser to `localhost:3000` 
 
 
 ![Picture](Image.png)
